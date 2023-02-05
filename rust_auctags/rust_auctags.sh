@@ -59,4 +59,4 @@ done
 echo "." >> .tags_file_list.txt
 
 uctags -R -L .tags_file_list.txt
-# rm -f .tags_file_list.txt
+rm -f .tags_file_list.txt
